@@ -3,187 +3,212 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ergoncab.netlify.app/courses/example/example1/</loc>
+    <loc>www.egonzalez.eu/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/courses/example/</loc>
+    <loc>www.egonzalez.eu/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/courses/example/example2/</loc>
+    <loc>www.egonzalez.eu/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/</loc>
+    <loc>www.egonzalez.eu/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/talk/example/</loc>
+    <loc>www.egonzalez.eu/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/talk/</loc>
+    <loc>www.egonzalez.eu/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/post/</loc>
+    <loc>www.egonzalez.eu/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/post/writing-technical-content/</loc>
+    <loc>www.egonzalez.eu/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/courses/</loc>
+    <loc>www.egonzalez.eu/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/publication-type/3/</loc>
+    <loc>www.egonzalez.eu/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/publication/preprint/</loc>
+    <loc>www.egonzalez.eu/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/authors/</loc>
+    <loc>www.egonzalez.eu/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/author/eric-gonzalez/</loc>
+    <loc>www.egonzalez.eu/author/eric-gonzalez/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/publication_types/</loc>
+    <loc>www.egonzalez.eu/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/publication/</loc>
+    <loc>www.egonzalez.eu/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/tag/source-themes/</loc>
+    <loc>www.egonzalez.eu/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/tags/</loc>
+    <loc>www.egonzalez.eu/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/post/jupyter/</loc>
+    <loc>www.egonzalez.eu/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/slides/</loc>
+    <loc>www.egonzalez.eu/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/slides/example/</loc>
+    <loc>www.egonzalez.eu/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/tag/deep-learning/</loc>
+    <loc>www.egonzalez.eu/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/tag/demo/</loc>
+    <loc>www.egonzalez.eu/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/project/external-project/</loc>
+    <loc>www.egonzalez.eu/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/project/internal-project/</loc>
+    <loc>www.egonzalez.eu/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/project/</loc>
+    <loc>www.egonzalez.eu/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/tag/academic/</loc>
+    <loc>www.egonzalez.eu/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/post/getting-started/</loc>
+    <loc>www.egonzalez.eu/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/categories/</loc>
+    <loc>www.egonzalez.eu/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/category/demo/</loc>
+    <loc>www.egonzalez.eu/category/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>www.egonzalez.eu/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>www.egonzalez.eu/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>www.egonzalez.eu/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/publication-type/2/</loc>
+    <loc>www.egonzalez.eu/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/publication/journal-article/</loc>
+    <loc>www.egonzalez.eu/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/author/robert-ford/</loc>
+    <loc>www.egonzalez.eu/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/publication-type/1/</loc>
+    <loc>www.egonzalez.eu/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.egonzalez.eu/tag/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.egonzalez.eu/category/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.egonzalez.eu/tag/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.egonzalez.eu/tag/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.egonzalez.eu/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ergoncab.netlify.app/publication/conference-paper/</loc>
+    <loc>www.egonzalez.eu/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   

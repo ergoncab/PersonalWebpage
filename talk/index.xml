@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Eric&#39;s Personal Webpage</title>
-    <link>https://ergoncab.netlify.app/talk/</link>
-      <atom:link href="https://ergoncab.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />
+    <title>Recent &amp; Upcoming Talks | Eric Gonzalez</title>
+    <link>www.egonzalez.eu/talk/</link>
+      <atom:link href="www.egonzalez.eu/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Eric Gonzalez © 202X</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ergoncab.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/www.egonzalez.eu/images/icon_hu2b36c1cbe92f15567d0ef86a9dcda649_3076_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://ergoncab.netlify.app/talk/</link>
+      <link>www.egonzalez.eu/talk/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://ergoncab.netlify.app/talk/example/</link>
+      <link>www.egonzalez.eu/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://ergoncab.netlify.app/talk/example/</guid>
+      <guid>www.egonzalez.eu/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
