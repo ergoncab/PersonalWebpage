@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo | Eric&#39;s Personal Webpage</title>
-    <link>https://ergoncab.netlify.app/tag/demo/</link>
-      <atom:link href="https://ergoncab.netlify.app/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <title>Demo | Eric Gonzalez</title>
+    <link>www.egonzalez.eu/tag/demo/</link>
+      <atom:link href="www.egonzalez.eu/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Eric Gonzalez © 202X</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ergoncab.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/www.egonzalez.eu/images/icon_hu2b36c1cbe92f15567d0ef86a9dcda649_3076_512x512_fill_lanczos_center_2.png</url>
       <title>Demo</title>
-      <link>https://ergoncab.netlify.app/tag/demo/</link>
+      <link>www.egonzalez.eu/tag/demo/</link>
     </image>
     
     <item>
       <title>External Project</title>
-      <link>https://ergoncab.netlify.app/project/external-project/</link>
+      <link>www.egonzalez.eu/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ergoncab.netlify.app/project/external-project/</guid>
+      <guid>www.egonzalez.eu/project/external-project/</guid>
       <description></description>
     </item>
     
