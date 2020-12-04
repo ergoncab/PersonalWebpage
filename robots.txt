@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: www.egonzalez.eu/sitemap.xml
+Sitemap: https://ergoncab.netlify.app/sitemap.xml
