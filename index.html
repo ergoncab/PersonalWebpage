@@ -96,8 +96,6 @@
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
-    
 
     
 
@@ -248,6 +246,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XF8DB5LRJ0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-XF8DB5LRJ0', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -3293,7 +3329,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
   
   <div class="d-none">
-    <input id="map-provider" value="2">
+    <input id="map-provider" value="1">
     <input id="map-lat" value="40.40696">
     <input id="map-lng" value="-3.70978">
     <input id="map-dir" value="Madrid, Spain ">
@@ -3412,7 +3448,10 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+      <script async defer src="https://maps.googleapis.com/maps/api/js?key="></script>
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
+      
     
 
     
