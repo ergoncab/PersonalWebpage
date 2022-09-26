@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo:C:\Users\eriko\Desktop\PersonalWebpage\HugoAcademic\themes\github.com\wowchemy\wowchemy-hugo-modules\wowchemy\assets\js\wowchemy-theming.js
+  // ns-hugo:C:\Users\eriko\Desktop\PersonalWebpage\HugoAcademic_2022\themes\github.com\wowchemy\wowchemy-hugo-modules\wowchemy\assets\js\wowchemy-theming.js
   function getThemeMode() {
     return parseInt(localStorage.getItem("dark_mode") || 2);
   }
